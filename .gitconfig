@@ -1,0 +1,9 @@
+[user]
+	name = asafonov
+	email = me@asafonov.org
+[push]
+	default = matching
+[pull]
+	rebase = true
+[core]
+	editor = vim
