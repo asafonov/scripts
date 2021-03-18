@@ -1,4 +1,4 @@
-export WORK=/home/asafonov/work
+export WORK=~/work
 sudo apt-get install bzip2 wget xz-utils
 cd $WORK
 rm -rf $WORK/node*
