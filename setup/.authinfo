@@ -1,0 +1,1 @@
+machine smtp.gmail.com login login port 465 password password
